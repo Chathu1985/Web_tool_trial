@@ -37,7 +37,7 @@
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  fetch('./data/NorthWestern_Province.geojson')
+  fetch('./data/Kurunegala_Dis.geojson')
     .then(response => response.json())
     .then(data => {
       const layer = L.geoJSON(data, {
