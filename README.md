@@ -1,2 +1,2 @@
 # Web_tool_trail
-This repository is a space for experimenting with new tools, testing analytical approaches, and exploring methods that support more interactive and user‑friendly web tool design. The goal is to try out different techniques, evaluate their effectiveness, and refine ideas that can contribute to better workflows and improved user experiences.
+This repository is a trial environment created for experimenting with web‑based tool design. It is used to test new features, analytical methods, and interaction patterns that support the development of an open‑source, device‑independent interactive tool. The aim is to explore flexible approaches that improve navigation, usability, and overall user experience across different platforms
